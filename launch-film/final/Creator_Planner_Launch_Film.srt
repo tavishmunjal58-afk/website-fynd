@@ -1,0 +1,238 @@
+1
+00:00:00,600 --> 00:00:02,743
+Every campaign begins with choices.
+
+2
+00:00:02,743 --> 00:00:05,314
+Which creators belong in the plan?
+
+3
+00:00:05,314 --> 00:00:07,029
+What will they cost?
+
+4
+00:00:07,029 --> 00:00:15,171
+Creator Campaign Contribution Planner brings the available
+numbers together, helping growth teams compare their options
+before committing a budget.
+
+5
+00:00:18,600 --> 00:00:20,743
+Start with the campaign overview.
+
+6
+00:00:20,743 --> 00:00:25,886
+See the recommended combination, estimated profit, creator fees,
+and remaining budget together.
+
+7
+00:00:25,886 --> 00:00:32,314
+The summary follows your selected creators, so you can
+understand the plan as a whole.
+
+8
+00:00:32,314 --> 00:00:34,029
+These figures are illustrative.
+
+9
+00:00:36,600 --> 00:00:40,029
+When the list grows, focus on what matters.
+
+10
+00:00:40,029 --> 00:00:46,029
+Search for a creator by name, or choose a category to narrow the
+table.
+
+11
+00:00:46,029 --> 00:00:51,171
+Compare the visible orders, discounts, costs, and fees before
+looking more closely.
+
+12
+00:00:54,600 --> 00:00:57,171
+A recommendation is a starting point.
+
+13
+00:00:57,171 --> 00:01:01,029
+Select or remove creators to explore a different combination.
+
+14
+00:01:01,029 --> 00:01:05,314
+The summary updates with your choices, showing the remaining
+budget.
+
+15
+00:01:05,314 --> 00:01:09,600
+If the plan exceeds it, a warning makes that visible.
+
+16
+00:01:12,600 --> 00:01:13,886
+Open the calculator.
+
+17
+00:01:13,886 --> 00:01:18,171
+Set your budget, category, and minimum and maximum creator
+count.
+
+18
+00:01:18,171 --> 00:01:22,886
+It searches combinations for the highest estimated profit within
+those limits.
+
+19
+00:01:22,886 --> 00:01:27,600
+Aggregate estimates do not yet adjust for returns or attribution
+overlap.
+
+20
+00:01:30,600 --> 00:01:35,314
+Open a creator profile to see the person behind a row.
+
+21
+00:01:35,314 --> 00:01:40,029
+Review their identity and platform audience figures alongside
+their campaign details.
+
+22
+00:01:40,029 --> 00:01:46,029
+Here, the creator information and audience numbers come from the
+project’s illustrative sample data.
+
+23
+00:01:48,600 --> 00:01:52,029
+The coupon code stays close to the creator.
+
+24
+00:01:52,029 --> 00:01:57,600
+Edit it directly in the profile; spaces are removed and letters
+become capitals.
+
+25
+00:01:57,600 --> 00:02:00,600
+The change is saved in this browser.
+
+26
+00:02:00,600 --> 00:02:04,029
+It does not create a live merchant coupon.
+
+27
+00:02:06,600 --> 00:02:10,029
+Move from a campaign total to individual orders.
+
+28
+00:02:10,029 --> 00:02:13,457
+Review each sample customer identifier, product, and price.
+
+29
+00:02:13,457 --> 00:02:21,600
+Delivered, shipped, and returned statuses sit beside the
+records, making it easier to inspect what the displayed activity
+contains.
+
+30
+00:02:24,600 --> 00:02:27,600
+Creator fees are part of the economics.
+
+31
+00:02:27,600 --> 00:02:34,457
+The product table allocates the creator fee across attributed
+orders, showing an influencer cost per product.
+
+32
+00:02:34,457 --> 00:02:39,600
+Use this view to understand that allocation alongside the
+displayed product prices.
+
+33
+00:02:42,600 --> 00:02:45,171
+The profile brings customer signals together.
+
+34
+00:02:45,171 --> 00:02:52,029
+Review returns, average order value, repeat customers, and
+estimated net profit for the illustrative order sample.
+
+35
+00:02:52,029 --> 00:02:57,600
+These profile figures describe that sample, separately from the
+campaign’s aggregate order counts.
+
+36
+00:03:00,600 --> 00:03:02,743
+Discovery begins with a question.
+
+37
+00:03:02,743 --> 00:03:09,600
+On YouTube, enter a keyword and choose a country to find
+channels through the official interface.
+
+38
+00:03:09,600 --> 00:03:12,171
+Server access must be configured first.
+
+39
+00:03:12,171 --> 00:03:16,029
+Live discovery has not been verified in this demonstration.
+
+40
+00:03:18,600 --> 00:03:20,743
+Instagram follows a different path.
+
+41
+00:03:20,743 --> 00:03:27,600
+Enter known usernames for business or creator accounts, then
+look them up through the official interface.
+
+42
+00:03:27,600 --> 00:03:29,743
+Account access must be configured.
+
+43
+00:03:29,743 --> 00:03:33,600
+This feature does not provide keyword search across Instagram.
+
+44
+00:03:36,600 --> 00:03:40,457
+Refine the discovery results by follower range and niche.
+
+45
+00:03:40,457 --> 00:03:45,171
+The largest audiences appear first, making the list easier to
+compare.
+
+46
+00:03:45,171 --> 00:03:52,029
+Niche is inferred from public text; the examples shown here are
+illustrative, rather than live results.
+
+47
+00:03:54,600 --> 00:03:58,886
+Keep promising creators on a shortlist saved in this browser.
+
+48
+00:03:58,886 --> 00:04:04,029
+Add an account from the results, or remove it when priorities
+change.
+
+49
+00:04:04,029 --> 00:04:09,600
+Stored entries expire after thirty days, helping the shortlist
+remain a working selection.
+
+50
+00:04:12,600 --> 00:04:14,314
+Creator Campaign Contribution Planner.
+
+51
+00:04:14,314 --> 00:04:19,886
+Explore the creators, understand the assumptions, and compare
+the options within your budget.
+
+52
+00:04:19,886 --> 00:04:23,743
+A clearer view supports a more considered next decision.
+
+53
+00:04:23,743 --> 00:04:27,600
+The demonstration uses sample data, not verified commercial
+results.
