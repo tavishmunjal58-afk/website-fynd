@@ -1,0 +1,31 @@
+{
+  "duration_seconds": 270,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames_decoded": 8100,
+  "expected_frames": 8100,
+  "unexpected_blank_frames": [],
+  "large_frame_change_candidates": [],
+  "maximum_frame_change": [
+    2.55484375,
+    17.566666666666666
+  ],
+  "maximum_bright_pixel_fraction": [
+    0.004079861111111111,
+    264.73333333333335
+  ],
+  "minimum_mean_luminance": [
+    0.9680381944444445,
+    269.8
+  ],
+  "maximum_mean_luminance": [
+    19.148611111111112,
+    67.7
+  ],
+  "identical_adjacent_frames_at_320x180": 7,
+  "automated_scope": "Every frame decoded at 320x180 grayscale; blank-frame, abrupt-change and bright-background heuristics.",
+  "manual_scope": "Representative full-resolution frames including 90s and 180s render joins and 118s coupon close-up; not every frame manually inspected."
+}

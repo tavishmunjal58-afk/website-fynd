@@ -1,0 +1,44 @@
+0–18s | Creator Campaign Contribution Planner
+A strong campaign begins before the first post. Understand the creators. Compare the costs. Then decide where your budget belongs. Creator Campaign Contribution Planner brings those choices together, so you can examine the plan clearly.
+
+18–36s | Campaign overview
+Start with the campaign overview. See the recommended combination, estimated profit, creator fees, and remaining budget together. The summary follows your selected creators, so you can understand the plan as a whole. These figures are illustrative.
+
+36–54s | Search and category filters
+When the list grows, focus on what matters. Search for a creator by name, or choose a category to narrow the table. Compare the visible orders, discounts, costs, and fees before looking more closely.
+
+54–72s | Plan comparison
+A recommendation is a starting point. Select or remove creators to explore a different combination. The summary updates with your choices, showing the remaining budget. If the plan exceeds it, a warning makes that visible.
+
+72–90s | Campaign calculator
+Open the calculator. Set your budget, category, and minimum and maximum creator count. It searches combinations for the highest estimated profit within those limits. Aggregate estimates do not yet adjust for returns or attribution overlap.
+
+90–108s | Creator profiles
+Open a creator profile to see the person behind a row. Review their identity and platform audience figures alongside their campaign details. Here, the creator information and audience numbers come from the project’s illustrative sample data.
+
+108–126s | Editable coupon code
+The coupon code stays close to the creator. Edit it directly in the profile; spaces are removed and letters become capitals. The change is saved in this browser. It does not create a live merchant coupon.
+
+126–144s | Customer orders
+Move from a campaign total to individual orders. Review each sample customer identifier, product, and price. Delivered, shipped, and returned statuses sit beside the records, making it easier to inspect what the displayed activity contains.
+
+144–162s | Influencer cost per product
+Creator fees are part of the economics. The product table allocates the creator fee across attributed orders, showing an influencer cost per product. Use this view to understand that allocation alongside the displayed product prices.
+
+162–180s | Profile analytics
+The profile brings customer signals together. Review returns, average order value, repeat customers, and estimated net profit for the illustrative order sample. These profile figures describe that sample, separately from the campaign’s aggregate order counts.
+
+180–198s | Keyword and country search
+Discovery begins with a question. On YouTube, enter a keyword and choose a country to find channels through the official interface. Server access must be configured first. Live discovery has not been verified in this demonstration.
+
+198–216s | Instagram business discovery
+Instagram follows a different path. Enter known usernames for business or creator accounts, then look them up through the official interface. Account access must be configured. This feature does not provide keyword search across Instagram.
+
+216–234s | Follower and niche filters
+Refine the discovery results by follower range and niche. The largest audiences appear first, making the list easier to compare. Niche is inferred from public text; the examples shown here are illustrative, rather than live results.
+
+234–252s | Saved in this browser
+Keep promising creators on a shortlist saved in this browser. Add an account from the results, or remove it when priorities change. Stored entries expire after thirty days, helping the shortlist remain a working selection.
+
+252–270s | Make the next choice clearer.
+Better decisions begin with a clearer view. Explore the creators, understand the assumptions, and compare the options within your budget. Creator Campaign Contribution Planner. Make the next choice clearer. This demonstration uses illustrative sample data.
