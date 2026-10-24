@@ -1,0 +1,26 @@
+{
+  "duration_seconds": 262.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames_decoded": 7860,
+  "unexpected_black_frames": [],
+  "large_frame_change_candidates": [],
+  "maximum_mean_pixel_change": 2.327847222222222,
+  "maximum_change_at_seconds": 244.33333333333334,
+  "audio_integrated_lufs": -14.02,
+  "audio_true_peak_dbtp": -1.59,
+  "audio_loudness_range_lu": 3.0,
+  "pixel_format": "yuv420p",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "sample_rate": "48000",
+  "source_render": "Native HTML/CSS opening re-rendered at 1080p30; existing feature footage reused without re-encoding, slowing or upscaling",
+  "visual_review": "Representative scene stills and transition frames; not manual inspection of every frame.",
+  "narration_engine": "Kokoro v1.0, British male bm_george, 24 kHz source; not ElevenLabs",
+  "subtitle_tracks": 0,
+  "opening_seconds": 10,
+  "keyboard_strokes": 7
+}

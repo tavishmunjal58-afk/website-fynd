@@ -1,0 +1,44 @@
+[
+  {
+    "character": "A",
+    "frame": 3233,
+    "time_seconds": 107.76666666666667,
+    "source": "self-generated mechanical keyboard stroke"
+  },
+  {
+    "character": "A",
+    "frame": 3240,
+    "time_seconds": 108.0,
+    "source": "self-generated mechanical keyboard stroke"
+  },
+  {
+    "character": "R",
+    "frame": 3247,
+    "time_seconds": 108.23333333333333,
+    "source": "self-generated mechanical keyboard stroke"
+  },
+  {
+    "character": "A",
+    "frame": 3254,
+    "time_seconds": 108.46666666666667,
+    "source": "self-generated mechanical keyboard stroke"
+  },
+  {
+    "character": "V",
+    "frame": 3261,
+    "time_seconds": 108.7,
+    "source": "self-generated mechanical keyboard stroke"
+  },
+  {
+    "character": "1",
+    "frame": 3268,
+    "time_seconds": 108.93333333333334,
+    "source": "self-generated mechanical keyboard stroke"
+  },
+  {
+    "character": "0",
+    "frame": 3275,
+    "time_seconds": 109.16666666666667,
+    "source": "self-generated mechanical keyboard stroke"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "duration_seconds": 262,
+  "intro_voice_start": 0.6,
+  "intro_voice_end": 8.471333333333334,
+  "intro_script": "Plan before the first post. Compare creators, understand the costs, and choose your next campaign with confidence.",
+  "keyboard_strokes": [
+    {
+      "character": "A",
+      "frame": 3233,
+      "time_seconds": 107.76666666666667,
+      "source": "self-generated mechanical keyboard stroke"
+    },
+    {
+      "character": "A",
+      "frame": 3240,
+      "time_seconds": 108.0,
+      "source": "self-generated mechanical keyboard stroke"
+    },
+    {
+      "character": "R",
+      "frame": 3247,
+      "time_seconds": 108.23333333333333,
+      "source": "self-generated mechanical keyboard stroke"
+    },
+    {
+      "character": "A",
+      "frame": 3254,
+      "time_seconds": 108.46666666666667,
+      "source": "self-generated mechanical keyboard stroke"
+    },
+    {
+      "character": "V",
+      "frame": 3261,
+      "time_seconds": 108.7,
+      "source": "self-generated mechanical keyboard stroke"
+    },
+    {
+      "character": "1",
+      "frame": 3268,
+      "time_seconds": 108.93333333333334,
+      "source": "self-generated mechanical keyboard stroke"
+    },
+    {
+      "character": "0",
+      "frame": 3275,
+      "time_seconds": 109.16666666666667,
+      "source": "self-generated mechanical keyboard stroke"
+    }
+  ],
+  "music_edit": "Two-second smooth overlap from old 7\u20139s into old 15\u201317s; all later audio shifts earlier by 8 seconds.",
+  "narration": "Kokoro v1.0 bm_george British male; new intro, original later speech.",
+  "audio": "Original procedural music and effects, self-generated keyboard strokes; 8 dB speech ducking.",
+  "output_integrated_lufs": -14.0,
+  "output_true_peak_dbtp": -1.7
+}

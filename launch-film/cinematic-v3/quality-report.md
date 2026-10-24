@@ -1,0 +1,23 @@
+# Final technical checks
+
+- **duration seconds**: 262.0
+- **resolution**: [1920, 1080]
+- **fps**: 30
+- **frames decoded**: 7860
+- **unexpected black frames**: []
+- **large frame change candidates**: []
+- **maximum mean pixel change**: 2.327847222222222
+- **maximum change at seconds**: 244.33333333333334
+- **audio integrated lufs**: -14.02
+- **audio true peak dbtp**: -1.59
+- **audio loudness range lu**: 3.0
+- **pixel format**: yuv420p
+- **video codec**: h264
+- **audio codec**: aac
+- **sample rate**: 48000
+- **source render**: Native HTML/CSS opening re-rendered at 1080p30; existing feature footage reused without re-encoding, slowing or upscaling
+- **visual review**: Representative scene stills and transition frames; not manual inspection of every frame.
+- **narration engine**: Kokoro v1.0, British male bm_george, 24 kHz source; not ElevenLabs
+- **subtitle tracks**: 0
+- **opening seconds**: 10
+- **keyboard strokes**: 7
